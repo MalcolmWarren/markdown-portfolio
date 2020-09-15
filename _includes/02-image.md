@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Big Bird](http://student.delta.edu/malcolmwarren/cst216/project2/assets/big%20bird.jpg)
